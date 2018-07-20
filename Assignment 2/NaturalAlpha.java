@@ -10,10 +10,10 @@ public class NaturalAlpha
       if(i%5==0)
        System.out.print("abcxyz ");
       else
-       System.out.print("xyz ");
+       System.out.print("abc ");
      }
      else if(i%5==0)
-      System.out.print("abc ");
+      System.out.print("xyz ");
      else
        System.out.print(i+" ");
     }
